@@ -21,4 +21,6 @@ In the "Model Training" section, the logistic regression, k-nearest neighbors, a
 
 There is also an additional section that generates predictions without the use of traditional libraries via linear regression and the normality equation.
 
-![Alt Text](loyalty classification scroll.gif)
+Here is a demo:
+
+![Alt Text](https://github.com/harishasan001/loyalty-classification/blob/main/loyalty%20classification%20scroll.gif)
