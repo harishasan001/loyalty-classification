@@ -1,3 +1,7 @@
+TLDR: A self-challenged speedrun to best solve a customer loyalty binary classification problem with and without ML libraries
+
+------
+
 # Binary Classification Model Comparison
 This repository contains a Jupyter Notebook that compares the performance of three binary classification models on a dataset. The models compared are logistic regression, k-nearest neighbors, and support vector machine. The dataset used for training and validation consists of two features and a binary label.
 
