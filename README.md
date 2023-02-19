@@ -1,5 +1,7 @@
 TLDR: A self-challenged speedrun to best solve a customer loyalty binary classification problem with and without ML libraries
 
+View in a new tab [here](https://htmlpreview.github.io/?https://github.com/harishasan001/loyalty-classification/blob/main/loyalty-classification.html)!
+
 ------
 
 # Binary Classification Model Comparison
