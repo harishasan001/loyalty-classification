@@ -5,7 +5,7 @@ View in a new tab [here](https://htmlpreview.github.io/?https://github.com/haris
 ------
 
 # Binary Classification Model Comparison
-This repository contains a Jupyter Notebook that compares the performance of three binary classification models on a dataset. The models compared are logistic regression, k-nearest neighbors, and support vector machine. The dataset used for training and validation consists of two features and a binary label.
+This repository contains a Jupyter Notebook that compares the performance of three binary classification models on a dataset: logistic regression, k-nearest neighbors, and support vector machine. The dataset used for training and validation consists of two features and a binary label.
 
 The objective of the analysis is to identify the best model based on evaluation metrics such as accuracy, precision, recall, and F1 score. The dataset is also visualized using scatter plots to gain an understanding of the data distribution.
 
@@ -19,8 +19,8 @@ The notebook contains the following sections:
 
 In the "Model Training" section, the logistic regression, k-nearest neighbors, and support vector machine models are trained and their evaluation metrics are computed on a validation dataset. In the "Model Comparison" section, the best hyperparameters for each model are selected using cross-validation and grid search. In the "Model Selection" section, the best model is chosen based on its evaluation metrics. Finally, in the "Generating Predictions" section, the chosen model is used to generate predictions on the validation datasets and the predictions are saved to CSV files.
 
-There is also an additional section that generates predictions without the use of traditional libraries via linear regression and the normality equation.
+There's also an additional section that generates predictions without the use of traditional libraries via linear regression and the normality equation.
 
-Here is a demo:
+Here's what you'll find in the notebook file:
 
 ![Alt Text](https://github.com/harishasan001/loyalty-classification/blob/main/loyalty%20classification%20scroll.gif)
